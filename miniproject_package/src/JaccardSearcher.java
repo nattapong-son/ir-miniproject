@@ -1,6 +1,6 @@
-//Name: 
-//Section: 
-//ID: 
+//Name: Ananya Pinedo Bello
+//Section: 1
+//ID: 6188084
 
 import java.util.List;
 
